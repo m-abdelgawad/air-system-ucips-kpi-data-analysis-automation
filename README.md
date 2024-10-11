@@ -20,6 +20,7 @@
       <ul>
         <li><a href="#business-case">Business Case</a></li>
         <li><a href="#technical-solution">Technical Solution</a></li>
+        <li><a href="#screenshots">Screenshots</a></li>
         <li><a href="#tech-stack">Tech Stack</a></li>
       </ul>
     </li>
@@ -64,6 +65,11 @@ Benefits:
 * Scalability: Handles large datasets daily, ensuring consistent performance regardless of data volume.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Screenshots
+
+<img src="readme_files/1.PNG">
+<img src="readme_files/2.PNG">
 
 ### Tech Stack
 
